@@ -3,3 +3,5 @@ hello world
 this is not the same coding session
 
 this will be the same coding session
+
+this will be a new coding session
